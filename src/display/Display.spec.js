@@ -3,7 +3,6 @@ import { render } from 'react-testing-library';
 import 'jest-dom/extend-expect';
 import Display from './Display';
 
-
 describe('<Display/>', () => {
 
     it('should display open and unlocked', () => {
